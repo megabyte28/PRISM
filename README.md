@@ -2,7 +2,7 @@
 
 Prism is a Python-based Image Analysis Dashboard. It takes any image as input and breaks it down into its core color components, generating a comprehensive 6-plot dashboard using Matplotlib.
 
-![Prism Dashboard Demo](dashboard_demo.jpg)
+![Prism Dashboard Demo](dashboard_demo.png)
 
 About The Project-->
 
